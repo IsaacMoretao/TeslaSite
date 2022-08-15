@@ -1,6 +1,10 @@
+import { Header } from "../../Components/Header/Index";
 
 export function Home(){
-  <body>
-
-  </body>
+  return(
+    <body>
+      <Header/>
+    </body>
+  )
+  
 }

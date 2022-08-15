@@ -1,0 +1,28 @@
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 55px;
+
+  figure{
+
+    img{
+      width: 120px;
+      padding: 0px 16px 0px 16px;
+    }
+    
+  }
+
+  nav{
+    gap: 7px;
+  }
+
+  div{
+    gap: 7px;
+    padding-right: 16px;
+  }
+
+  .sideBar{
+    width: 20%; 
+  }
+}

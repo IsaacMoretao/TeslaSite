@@ -1,4 +1,6 @@
 import { Route, Routes } from "react-router-dom"
+import { Home } from "./Pages/Home/Index"
+
 
 
 
@@ -8,7 +10,7 @@ function Rotas() {
   return (
     <body>
       <Routes>
-        <Route path="/teslasite/" element={<h1>Helo Isaac</h1>} />
+        <Route path="/teslasite/" element={<Home/>} />
       </Routes>
     </body>
   )
