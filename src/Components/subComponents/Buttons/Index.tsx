@@ -7,7 +7,7 @@ type buttonHeader = {
 export function Buttons(props: buttonHeader){
   return(
     <>
-      <button className='ButtonNav' >
+      <button className='ButtonNav'>
         {props.nameButton}
       </button>
     </>
