@@ -5,6 +5,7 @@
   height: 55px;
   width: 100%;
   position: fixed;
+  z-index: 50;
   
 
   figure{
@@ -22,7 +23,7 @@
 
   div{
     gap: 7px;
-    padding-right: 16px;
+    padding-right: 30px;
   }
 
 }

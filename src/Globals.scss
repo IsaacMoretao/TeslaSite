@@ -12,6 +12,10 @@ a{
   text-decoration: none;
 }
 
+//*::-webkit-scrollbar{
+// z-index: 100;
+//}
+
 *::-webkit-scrollbar-button {
   display: none;
 
