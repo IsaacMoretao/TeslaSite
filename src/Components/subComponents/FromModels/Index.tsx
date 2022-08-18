@@ -13,7 +13,7 @@ export function FromModels(props: modelNames){
       
       <header>
         <h1>{props.Name}</h1>
-        <h2>Ti Ti Ti...</h2>
+        <h2>Order Online for Touchless Delivery</h2>
       </header>
 
       <footer>
