@@ -9,5 +9,12 @@ html.sr .load-hidden{
 html.sr .slide-up {
   visibility: hidden;
   font-size: 50px;
-  margin-left: 50px;
+  margin-top: 30vh;
+}
+.widget-list{
+  display: flex;
+  flex-direction: column;
+}
+html.sr .slide-up{
+  visibility: hidden;
 }

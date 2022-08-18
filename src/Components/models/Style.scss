@@ -8,6 +8,7 @@
   article{
     height: 100vh;
     scroll-snap-align: start;
+    background-size: cover;
     
     .headline{
       visibility: hidden;
@@ -18,8 +19,6 @@
   
 }
 
-
-.Models::-webkit-scrollbar-button {
-  display: none;
-
-}
+//html.sr .slide-up{
+//  visibility: hidden;
+//}

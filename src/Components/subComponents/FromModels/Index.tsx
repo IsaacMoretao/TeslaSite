@@ -9,7 +9,7 @@ import './Style.scss'
 export function FromModels(props: modelNames){
 
   return(
-    <div className='FromModels' style={{}}>
+    <div className='FromModels'>
       
       <header>
         <h1>{props.Name}</h1>
