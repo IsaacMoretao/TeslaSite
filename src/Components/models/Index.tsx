@@ -13,7 +13,7 @@ var slideUp: any  = {
     easing: 'button',
   };
 
-//  ScrollReveal().reveal('.slide-up', { interval: 5, reset: true, delay: 50 });
+  ScrollReveal().reveal('.slide-up', { interval: 5, reset: true, delay: 50 });
   ScrollReveal().reveal('.slide-up', slideUp);
   
 
@@ -68,8 +68,9 @@ var slideUp: any  = {
 
       <article 
       style={{ background: 'url(https://tesla-cdn.thron.com/delivery/public/image/tesla/dd739764-bcaa-4263-9488-8c73bc9fb046/bvlatuR/std/1500x1800/dd739764-bcaa-4263-9488-8c73bc9fb046) no-repeat center center'}}>
+        
         <div className='slide-up'>
-          <FromModels Name={'Acessories'} ButtonName={''}/>
+          <FromModels Name={'Acessories'} None={'None'}/>
         </div>
       </article>
 

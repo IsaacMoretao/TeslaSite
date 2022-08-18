@@ -2,8 +2,8 @@ import './Style.scss'
 
  type modelNames = {
    Name: string,
-   ButtonName: string,
-   
+   ButtonName?: string,
+   None?: 'None' 
  }
 
 export function FromModels(props: modelNames){
@@ -18,7 +18,7 @@ export function FromModels(props: modelNames){
 
       <footer>
         <button>Costom Order</button>
-        <button>{props.ButtonName}</button>
+        <button style={{display:`${props.None}`}}>{props.ButtonName}</button>
       </footer>
 
     </div>

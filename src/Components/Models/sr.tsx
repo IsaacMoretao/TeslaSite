@@ -11,16 +11,16 @@ export function Test(){
   ScrollReveal().reveal('.slide-up', { duration: 500 });
   ScrollReveal().reveal('.slide-up', { delay: 375, reset: true });
 
-  ScrollReveal().reveal('.slide-up', slideUp);
+ // ScrollReveal().reveal('.slide-up', slideUp);
   
-  var slideUp: any  = {
+ /* var slideUp: any  = {
     origin: 'right',
     duration: 1000,
     delay: 150,
     distance: '500px',
     scale: 1,
     easing: 'button',
-  };
+  };*/
 
   return(
     
