@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { Buttons } from '../subComponents/Buttons/Index';
-import LogoTesla from '../../Assets/Images/Tesla-Logo.png';
+import LogoTesla from '../../Assets/Images/Logo-Tesla';
 
 import './Style.scss';
 import { useState } from 'react';
@@ -90,63 +90,63 @@ export function Header(){
 
               </div>
               <Link to={''}>
-                <Hbutton nameButton={'Hey #01'}/>
+                <Hbutton nameButton={'Existing Inventory'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'Hey #02'}/>
+                <Hbutton nameButton={'Used Inventory'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'Hey #03'}/>
+                <Hbutton nameButton={'Trade-In'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Test Drive'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Insurance'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Cybertruck'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Roadster'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Semi'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Charging'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'PowerWall'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Commercial Energy'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Ultilities'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Find Us'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Support'}/>
               </Link>
               
               <Link to={''}>
-                <Hbutton nameButton={'awdadawd'}/>
+                <Hbutton nameButton={'Inventor Relations'}/>
               </Link>
               
             </nav>
