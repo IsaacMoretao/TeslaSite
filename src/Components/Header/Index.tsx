@@ -29,7 +29,9 @@ export function Header(){
       <header className="header">
 
         <figure>
-          <img src={LogoTesla} alt="tesla logo" />
+          <Link to={'/teslasite/'}>
+            <img src={LogoTesla} alt="tesla logo" />
+          </Link>
         </figure>
 
         <nav>
@@ -68,7 +70,7 @@ export function Header(){
           <Link to={''}>
             <Buttons nameButton={'Account'}/>
           </Link>
-          <button onClick={Sumir}>
+          <button className='Menu' onClick={Sumir}>
             <Buttons nameButton={'Menu'}/>
           </button>
             

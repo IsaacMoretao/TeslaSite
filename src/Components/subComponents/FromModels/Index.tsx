@@ -3,13 +3,13 @@ import './Style.scss'
  type modelNames = {
    Name: string,
    ButtonName: string,
-   opacity: string
+   
  }
 
 export function FromModels(props: modelNames){
 
   return(
-    <div className='FromModels' style={{opacity: `${props.opacity}`}}>
+    <div className='FromModels' style={{}}>
       
       <header>
         <h1>{props.Name}</h1>

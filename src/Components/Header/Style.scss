@@ -28,6 +28,21 @@
 
 }
 
+.Menu{
+  border-radius: 30px;
+  border: none;
+  background: #ffffff00;
+  transition: 0.3s;
+}
+
+.Menu:hover{
+ background:#ffffff57;
+ backdrop-filter:  blur( 10px );
+ -webkit-backdrop-filter: blur( 10px );
+ cursor: pointer;
+ box-shadow: 3px 3px 3px #2020205b;
+}
+
 .Hamburguer{
   position: absolute;
   z-index: 50;
@@ -41,7 +56,7 @@
 .sideBar{
   width: 23%;
   height: 100%;
-  background-color: rgb(95, 75, 75);
+  background: #ffffff;
   margin-left: auto;
   position: relative;
   
@@ -63,8 +78,13 @@
       border-radius: 30px;
       padding: auto;
       cursor: pointer;
-      background: #d0d1d2;
+      background: #fff;
+      transition: 0.5s;
  
+    }
+
+    button:hover {
+      background: #e7e7e7;
     }
 
   }
