@@ -47,7 +47,6 @@ uma demonstração das minhas hablidades em reactJS, tailwind e vime/core.
 </h1>
 
 <p align="center">
- Esse Repositorio é uma cópia do site " https://www.tesla.com/ ", <br/> ele foi feito com o objetivo de mostrar e praticar minhas hablidades em ReactJs, <br/> <b>NÃO É POSSIVEOL, FAZER COMPRAS neste site</b>.
- 
+ Esse Repositorio é uma cópia do site " https://www.tesla.com/ ", <br/> ele foi feito com o objetivo de mostrar e praticar minhas hablidades em ReactJs, <br/> <b>NÃO É POSSIVEOL, FAZER COMPRAS neste site</b>. <br /><br />
  Espero que você goste, aproveite a experiência e comente o que achou!
 </p>
