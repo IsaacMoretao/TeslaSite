@@ -1,7 +1,5 @@
 <h1 align="center">
-
-# TheMusic
-
+  TheMusic
 </h1>
  
 <img href="./src/Assets/Images/Site-From-Redmi-Md.png" />
@@ -11,9 +9,7 @@ uma demonstração das minhas hablidades em reactJS, tailwind e vime/core.
 </p>
 
 <h1 align="center">
-
-# Requisitos para Instalar o projeto
-
+  Requisitos para Instalar o projeto
 </h1>
 
 <p>
@@ -23,10 +19,9 @@ uma demonstração das minhas hablidades em reactJS, tailwind e vime/core.
 
   3º: Git <a href='https://git-scm.com/downloads'> Instalação </a> <br/>
 </p>
+
 <h1 align="center">
-
-# Requisitos para Rodar o projeto
-
+  Requisitos para Rodar o projeto
 </h1>
 
 
@@ -40,19 +35,17 @@ uma demonstração das minhas hablidades em reactJS, tailwind e vime/core.
   3º: npm run dev <br/>
 
 </p>
+
 <h1 align="center">
-
-# Isaac Moretão
-
+  Isaac Moretão
 </h1>
+
 <br/>
 
-
 <h1 align="center">
-
-# TeslaSite
-
+  TeslaSite
 </h1>
+
 <p align="center">
  Esse Repositorio é uma cópia do site " https://www.tesla.com/ ", <br/> ele foi feito com o objetivo de mostrar e praticar minhas hablidades em ReactJs, <br/> <b>NÃO É POSSIVEOL, FAZER COMPRAS neste site</b>.
  
