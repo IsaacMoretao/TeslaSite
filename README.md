@@ -2,7 +2,7 @@
   TheMusic
 </h1>
  
-<img href="./src/Assets/Images/Site-From-Redmi-Md.png" />
+<img src="./src/Assets/Images/Site-From-Redmi-Md.png" />
 <p align="center">
 Esse é um projeto com Musicas, que usas o tailwind css juntamente com o vime/core,  <br/>
 uma demonstração das minhas hablidades em reactJS, tailwind e vime/core.
@@ -40,7 +40,7 @@ uma demonstração das minhas hablidades em reactJS, tailwind e vime/core.
   Isaac Moretão
 </h1>
 
-<br/>
+p
 
 <h1 align="center">
   TeslaSite
