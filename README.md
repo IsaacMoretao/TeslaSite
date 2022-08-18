@@ -1,11 +1,12 @@
 <h1 align="center">
-  TheMusic
+  Tesla Site
 </h1>
  
 <img src="./src/Assets/Images/Site-From-Redmi-Md.png" />
 <p align="center">
-Esse é um projeto com Musicas, que usas o tailwind css juntamente com o vime/core,  <br/>
-uma demonstração das minhas hablidades em reactJS, tailwind e vime/core.
+Esse é um projeto de clone do Site Tesla.com , que usas o ReactJs, scrollreveal, typescript, <br/>
+sass e react-router-dom, para ver mais <a href=''> Clique Aqui</a>
+
 </p>
 
 <h1 align="center">
@@ -40,7 +41,17 @@ uma demonstração das minhas hablidades em reactJS, tailwind e vime/core.
   Isaac Moretão
 </h1>
 
-p
+
+=======
+<p>
+  Eu sou um Estudante de Programação com foco em ReactJs, estou em busca da minha primeira vaga <br />
+  como programador no mercad de trabalho, você pode ver outros projetos meus, no meu perfil do GitHub, <br />
+  se você me der uma estrela neste repositório eu seria muito grato, e se puder comentar o que achou vc me ajuda a melhorar <br />
+  
+</p>
+
+<br/>
+>>>>>>> 0db3a5c84a0abc33ba69726291ce69019a3ed55c
 
 <h1 align="center">
   TeslaSite
