@@ -2,7 +2,7 @@
   Tesla Site
 </h1>
  
-<img src="./src/Assets/Images/Site-From-Redmi-Md.png" />
+<img src='./src/Assets/Images/Site-From-Redmi-Md.png' />
 <p align="center">
 Esse é um projeto de clone do Site Tesla.com , que usas o ReactJs, scrollreveal, typescript, <br/>
 sass e react-router-dom, para ver mais <a href=''> Clique Aqui</a>
