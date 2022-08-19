@@ -4,7 +4,6 @@ import './Style.scss';
 import { useState } from 'react';
 import { Hbutton } from '../subComponents/Hbutton/Index';
 
-
 export function Header(){
  
   const [Hburguer, setHburguer] = useState('none');
@@ -72,7 +71,6 @@ export function Header(){
           <button className='Menu' onClick={Sumir}>
             <Buttons nameButton={'Menu'}/>
           </button>
-            
 
         </div>
         
@@ -153,6 +151,7 @@ export function Header(){
           </div>
         </aside>
     </body>
+    
   )
     
 }   

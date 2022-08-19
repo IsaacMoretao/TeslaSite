@@ -10,6 +10,7 @@ export function FromModels(props: modelNames){
 
   return(
     <div className='FromModels'>
+      {/*Mascara Com os nomes dos Articles que é usado em /src/Components/Models */}
       
       <header>
         <h1>{props.Name}</h1>
