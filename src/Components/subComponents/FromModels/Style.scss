@@ -72,9 +72,28 @@
 @media (max-width: 999px){
 
   .FromModels{
+    width: 100%;
+    margin-left: 50%;
+    
+    header{
+      margin-top: 15%;
+
+    }
 
     footer{
       flex-direction: column;
+    }
+
+  }
+
+}
+
+@media (max-width: 500px){
+
+  .FromModels{
+
+    footer{
+      margin-bottom: 30%;
     }
 
   }

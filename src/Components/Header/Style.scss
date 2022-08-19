@@ -36,17 +36,7 @@
   }
 
 }
-@media (max-width: 999px){
-  .header{
-    padding: 0px 10px;
 
-    nav{
-      display: none;
-    }
-
-  }
-
-}
 
 .Menu{
   border-radius: 30px;
@@ -126,6 +116,53 @@
       width: 100%;
     }
 
+  }
+
+
+}
+@media (max-width: 500px){
+
+  .sideBar{
+    min-width: 50%;
+  }
+
+  .spaan{
+    width: 100%;
+  }
+  .header{
+    padding: 0px;
+
+    nav{
+      display: none;
+    }
+
+    div{
+      gap: 5px;
+      padding-right: 15px;
+    }
+    figure{
+       img{
+        width: 100px;
+        padding: 0px 10px 0px 10px;
+      }
+      
+    }
+   
+  }
+
+
+}
+@media (max-width: 999px){
+  .header{
+    padding: 0px 10px;
+
+    nav{
+      display: none;
+    }
+
+  }
+  .sideBar{
+    width: 30%
   }
 
 }
