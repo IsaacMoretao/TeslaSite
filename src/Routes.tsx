@@ -9,7 +9,7 @@ function Rotas() {
 
   return (
     <Routes>
-      <Route path="/teslasite/" element={<Home/>} />
+      <Route path="/TeslaSite/" element={<Home/>} />
     </Routes>
   )
 }

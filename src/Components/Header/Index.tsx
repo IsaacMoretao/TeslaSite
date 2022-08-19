@@ -28,7 +28,7 @@ export function Header(){
       <header className="header">
 
         <figure>
-          <Link to={'/teslasite/'}>
+          <Link to={'/TeslaSite/'}>
             <img src='https://www.pngmart.com/files/21/Tesla-Car-Logo-PNG-Pic.png' alt="tesla logo" />
           </Link>
         </figure>
