@@ -6,7 +6,7 @@
 
 <p align="center">
 Esse é um projeto de clone do Site Tesla.com , que usas o ReactJs, scrollreveal, typescript, <br/>
-sass e react-router-dom, para ver mais <a href='https://isaacmoretao.github.io/TeslaSite/' target={'_blank'}> Clique Aqui</a>
+sass e react-router-dom, para ver mais <a href='https://isaacmoretao.github.io/TeslaSite/' target='_blank'> Clique Aqui</a>
 </p>
 
 <br/><br/>
