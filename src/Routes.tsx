@@ -8,11 +8,9 @@ function Rotas() {
   /*########## !!! website routes !!! ##########*/
 
   return (
-    <body>
-      <Routes>
-        <Route path="/teslasite/" element={<Home/>} />
-      </Routes>
-    </body>
+    <Routes>
+      <Route path="/teslasite/" element={<Home/>} />
+    </Routes>
   )
 }
 
