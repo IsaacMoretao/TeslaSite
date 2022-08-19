@@ -1,7 +1,6 @@
 .FromModels{
-  width: 50%;
+  width: 80%;
   height: 100vh;
-  
 
   display: flex;
   margin-left: 50%;
@@ -15,13 +14,14 @@
     display: flex;
     margin-bottom: auto;
 
-    margin-top: 8%;
+    margin-top: 10%;
     flex-direction: column;
 
     h1{
       font-weight: 500;
       font-size: 40px;
       text-align: center;
+
 
     }
 
@@ -35,7 +35,7 @@
   }
 
   footer{
-    margin-bottom: 10%;
+    margin-bottom: 15%;
     display: flex;
     gap: 10px;
 
@@ -66,6 +66,17 @@
       
     }
   
+  }
+
+}
+@media (max-width: 999px){
+
+  .FromModels{
+
+    footer{
+      flex-direction: column;
+    }
+
   }
 
 }

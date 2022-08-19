@@ -1,7 +1,5 @@
 import { Link } from 'react-router-dom';
 import { Buttons } from '../subComponents/Buttons/Index';
-import LogoTesla from '../../Assets/Images/Logo-Tesla';
-
 import './Style.scss';
 import { useState } from 'react';
 import { Hbutton } from '../subComponents/Hbutton/Index';
@@ -25,12 +23,13 @@ export function Header(){
 
   return(
     <body>
+      <span className='spaan'>&copy; www.tesla.com</span>
 
       <header className="header">
 
         <figure>
           <Link to={'/teslasite/'}>
-            <img src={LogoTesla} alt="tesla logo" />
+            <img src='https://www.pngmart.com/files/21/Tesla-Car-Logo-PNG-Pic.png' alt="tesla logo" />
           </Link>
         </figure>
 
